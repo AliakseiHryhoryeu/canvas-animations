@@ -1,18 +1,13 @@
 # Canvas Animations
 
-## [Triangles](./01/)
+## [01 - Triangles](./01/)
+
+![Triangles](./.preview/01.jpg)
+
+## [02 - Particles and lines](./02/)
 
 ![Triangles](./.preview/02.jpg)
 
-![Triangles](./.preview/02.gif)
+## [03 - Triangles with gradient](./03/)
 
-![Triangles](./.preview/02.mp4)
-
-<!-- - React
-- Redux Toolkit
-- TypeScript
-- Webpack
-
-![Pomodoro-preview-dark-1](./.preview/preview-light.jpg)
-![Pomodoro-preview-dark-2](./.preview/preview-dark-2.jpg)
-![Pomodoro-preview-light-2](./.preview/preview-light-2.jpg) -->
+![Triangles](./.preview/03.jpg)
